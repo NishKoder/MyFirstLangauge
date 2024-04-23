@@ -1,0 +1,3 @@
+156 node generate.js example1.ast
+157 npm run gen-parser
+158 node parse.js example1.ng

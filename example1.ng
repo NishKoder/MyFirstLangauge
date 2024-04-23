@@ -1,0 +1,6 @@
+n := 1
+m := n + 2
+p := n x 3 + 3
+print n
+print m
+print p

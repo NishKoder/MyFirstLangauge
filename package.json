@@ -1,0 +1,16 @@
+{
+  "name": "attemp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen-parser": "nearleyc ng.grammar -o ng.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "nearley": "^2.20.1"
+  }
+}
